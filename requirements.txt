@@ -1,0 +1,6 @@
+asgiref
+django-debug-toolbar
+pytz
+sqlparse
+pillow  # Note: if this fails, check https://pillow.readthedocs.io/en/stable/installation.html
+django-crispy-forms
